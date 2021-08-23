@@ -1,15 +1,3 @@
-import React from 'react'
-import { Link } from 'react-router-dom'
 
-
-const PageNotFound = (props) =>{
-
-    return(
-        <div>
-            <p>This is ForgotPassword Page</p>
-        </div>
-    )
-}
-
-
-export default PageNotFound
+export default PageNotFound = (props) =>  <div>  <p>This is ForgotPassword Page</p> </div>
+    
